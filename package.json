@@ -1,0 +1,22 @@
+{
+  "name": "b41du",
+  "version": "1.0.0",
+  "description": "page learning gatsby",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b41du/b41du.git"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "author": "alex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b41du/b41du/issues"
+  },
+  "homepage": "https://github.com/b41du/b41du#readme"
+}
